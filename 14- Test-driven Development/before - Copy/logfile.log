@@ -1,0 +1,792 @@
+{"message":"Something failed during startup.","stack":"Error: Something failed during startup.\n    at Object.<anonymous> (/Users/moshfeghhamedani/Desktop/node-course/vidly/index.js:29:7)\n    at Module._compile (module.js:635:30)\n    at Object.Module._extensions..js (module.js:646:10)\n    at Module.load (module.js:554:32)\n    at tryModuleLoad (module.js:497:12)\n    at Function.Module._load (module.js:489:3)\n    at Function.Module.runMain (module.js:676:10)\n    at startup (bootstrap_node.js:187:16)\n    at bootstrap_node.js:608:3","level":"error","timestamp":"2018-02-06T20:32:44.656Z"}
+{"message":"Something failed miserably!","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (/Users/moshfeghhamedani/Desktop/node-course/vidly/index.js:34:26)\n    at Module._compile (module.js:635:30)\n    at Object.Module._extensions..js (module.js:646:10)\n    at Module.load (module.js:554:32)\n    at tryModuleLoad (module.js:497:12)\n    at Function.Module._load (module.js:489:3)\n    at Function.Module.runMain (module.js:676:10)\n    at startup (bootstrap_node.js:187:16)\n    at bootstrap_node.js:608:3","level":"error","timestamp":"2018-02-06T20:53:50.001Z"}
+{"message":"Could not get the genres.","stack":"Error: Could not get the genres.\n    at router.get (/Users/moshfeghhamedani/Desktop/node-course/vidly/routes/genres.js:9:9)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:112:3)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:47:12)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2018-02-06T21:21:42.521Z"}
+{"message":"Could not get the genres.","stack":"Error: Could not get the genres.\n    at router.get (/Users/moshfeghhamedani/Desktop/node-course/vidly/routes/genres.js:9:9)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:112:3)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:47:12)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2018-02-06T21:21:43.301Z"}
+{"message":"Could not get the genres.","stack":"Error: Could not get the genres.\n    at router.get (/Users/moshfeghhamedani/Desktop/node-course/vidly/routes/genres.js:9:9)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:112:3)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:47:12)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2018-02-06T21:21:52.096Z"}
+{"message":"Could not get the genres.","stack":"Error: Could not get the genres.\n    at router.get (/Users/moshfeghhamedani/Desktop/node-course/vidly/routes/genres.js:9:9)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/route.js:112:3)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:47:12)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2018-02-06T21:21:53.806Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-02-06T21:34:26.743Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-02-06T21:39:24.124Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T19:46:38.839Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-02-13T19:46:38.861Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:02:31.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-02-13T20:02:31.873Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:03:10.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:03:10.216Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:27:25.716Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:30:04.955Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:30:04.977Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:30:12.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:30:12.356Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:50:37.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:50:37.450Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:55:18.295Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:55:18.310Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:57:48.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:57:48.597Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T20:58:08.617Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T20:58:08.623Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:01:29.080Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:01:29.085Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:01:46.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:01:46.921Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:04:39.262Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:04:39.267Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:08:51.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:08:51.317Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:11:41.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:11:41.913Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:15:14.584Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:15:14.588Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:15:27.986Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:15:28.051Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:17:59.584Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:17:59.592Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:18:09.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:18:09.269Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:20:18.021Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:20:18.026Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T21:22:17.529Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T21:22:17.534Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:15:14.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:15:14.614Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:15:24.614Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:15:24.740Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:22:34.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:22:34.003Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:28:51.373Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:28:51.378Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:30:02.471Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:30:02.539Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:31:10.953Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:31:11.014Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:32:52.901Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:32:52.972Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:38:34.984Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:38:34.989Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1041:15)\n    at cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOne (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1485:8)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:276:8\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2018-02-13T22:38:35.007Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:41:31.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:41:31.500Z"}
+{"level":"error","timestamp":"2018-02-13T22:41:31.519Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:42:08.746Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:42:08.811Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:42:43.824Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:42:43.898Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:48:49.381Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:48:49.388Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:49:48.617Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:49:48.624Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:50:06.896Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:50:06.900Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1041:15)\n    at cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOne (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1485:8)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:276:8\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2018-02-13T22:50:07.017Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-13T22:51:15.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-13T22:51:15.439Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:22:20.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:22:21.029Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:28:10.502Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:28:10.583Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:31:03.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:31:03.591Z"}
+{"message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","errors":{"name":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","properties":{"message":"Path `{PATH}` (`{VALUE}`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).\n    at new ValidationError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/document.js:1656:32)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/document.js:1528:17\n    at Immediate._onImmediate (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:785:9)\n    at runCallback (timers.js:789:20)\n    at tryOnImmediate (timers.js:751:5)\n    at processImmediate [as _immediateCallback] (timers.js:722:5)","name":"ValidationError","level":"error","timestamp":"2018-02-14T17:31:03.618Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:33:25.843Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:33:25.905Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:38:31.430Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:38:31.487Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:42:06.227Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:42:06.294Z"}
+{"message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","errors":{"name":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","properties":{"message":"Path `{PATH}` (`{VALUE}`) is longer than the maximum allowed length (50).","type":"maxlength","maxlength":50,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at new ValidationError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/document.js:1656:32)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/document.js:1528:17\n    at Immediate._onImmediate (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:785:9)\n    at runCallback (timers.js:789:20)\n    at tryOnImmediate (timers.js:751:5)\n    at processImmediate [as _immediateCallback] (timers.js:722:5)","name":"ValidationError","level":"error","timestamp":"2018-02-14T17:42:06.358Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:42:53.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:42:53.316Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:45:14.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:45:14.390Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T17:46:33.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T17:46:33.005Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:00:20.704Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:00:20.708Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:05:29.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:05:29.245Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:12:37.370Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:12:37.422Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:33:38.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:33:38.435Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:38:42.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:38:42.262Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:40:30.650Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:40:30.719Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:40:31.020Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:44:44.788Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:44:44.856Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:44:57.875Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:44:57.949Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:44:58.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:44:58.326Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:45:17.580Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:45:17.667Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:45:17.876Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:45:18.077Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:46:24.885Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:46:25.022Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:46:25.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:46:25.029Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:47:10.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:47:10.071Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:47:10.216Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:47:10.220Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:47:52.517Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:47:52.637Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:47:52.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:47:52.780Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:49:21.585Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:49:21.590Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:49:21.814Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:49:21.821Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:57:41.031Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:57:41.036Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T18:57:41.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T18:57:41.202Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:02:21.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:02:21.303Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:02:21.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:02:21.524Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:04:09.454Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:04:09.459Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:04:09.622Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:04:09.628Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:05:09.631Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:05:09.637Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:05:09.801Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:05:09.886Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:18:37.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:18:37.196Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:18:37.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:18:37.501Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:20:25.615Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:20:25.620Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:20:25.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:20:25.945Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:20:35.983Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:20:36.012Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:20:36.279Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:20:36.335Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:36:04.887Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:36:04.892Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:36:05.094Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:36:05.147Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:48:34.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:48:34.503Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:48:34.702Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:48:34.767Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:49:57.931Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:49:57.936Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:49:58.154Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:49:58.220Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:50:06.267Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:50:06.272Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:50:06.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:50:06.475Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:50:13.734Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:50:13.739Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:50:13.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:50:13.958Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:51:17.730Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:51:17.735Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:51:17.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:51:17.949Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:51:37.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:51:37.069Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:51:37.273Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:51:37.279Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:11.237Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:11.241Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:11.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:11.457Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:20.439Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:20.443Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:20.782Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:20.799Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:26.093Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:26.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:26.344Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:26.392Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:55.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:55.455Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:52:55.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:52:55.743Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:55:35.033Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:55:35.037Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:55:35.285Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:55:35.362Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:56:00.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:56:00.756Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1041:15)\n    at cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOneAndRemove (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:2241:8)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:276:8\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2018-02-14T19:56:00.816Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:56:00.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:56:00.979Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:56:31.752Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:56:31.756Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1041:15)\n    at cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOneAndRemove (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:2241:8)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:276:8\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2018-02-14T19:56:31.816Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:56:31.976Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:56:31.983Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:56:46.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:56:46.488Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1041:15)\n    at cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOneAndRemove (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:2241:8)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:276:8\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2018-02-14T19:56:46.548Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:56:46.692Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:56:46.698Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:57:31.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:57:31.722Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:57:31.931Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:57:31.938Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:58:20.530Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:58:20.534Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:58:20.747Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:58:20.753Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:58:27.180Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:58:27.184Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:58:27.537Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:58:27.549Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:58:39.049Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:58:39.054Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:58:39.250Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:58:39.419Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:59:07.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:59:07.470Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T19:59:07.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T19:59:07.713Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T20:01:10.699Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T20:01:10.732Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T20:01:11.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T20:01:11.139Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/error/cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schema/objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/schematype.js:1041:15)\n    at cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOneAndUpdate (/Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/mongoose/lib/query.js:2146:8)\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:276:8\n    at /Users/moshfeghhamedani/Desktop/node-course/vidly/node_modules/kareem/index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2018-02-14T20:01:11.190Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T20:01:26.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T20:01:26.747Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T20:01:26.956Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T20:01:27.027Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T20:02:04.272Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T20:02:04.299Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-14T20:02:04.579Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-14T20:02:04.630Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:37:22.085Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:37:22.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:37:24.160Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:37:24.241Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:37:24.272Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:38:07.301Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:38:09.354Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:38:11.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:38:13.847Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:38:16.076Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:38:18.146Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:42:22.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:42:24.268Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:42:26.794Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:42:28.842Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:42:31.623Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:42:33.698Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:43:00.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:43:02.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:43:04.544Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:43:06.664Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:43:08.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:43:11.030Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:44:09.110Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:44:11.159Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:44:13.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:44:15.594Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:44:18.008Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:44:20.043Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:45:25.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:45:27.164Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:45:29.467Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:45:31.667Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:45:34.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:45:36.296Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:46:22.188Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:46:24.239Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:46:26.538Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:46:28.577Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:46:31.200Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:46:33.245Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:47:21.202Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:47:23.228Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:47:25.486Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:47:27.537Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:47:29.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:47:31.975Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:55:19.472Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:55:19.481Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:55:21.572Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:55:21.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:55:21.648Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:55:37.030Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:55:39.138Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:55:41.383Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:55:43.475Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:55:45.680Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:55:47.769Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:57:18.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:57:20.427Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:57:25.593Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:57:27.692Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:57:29.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:57:32.014Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:57:37.339Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:57:39.464Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:57:44.608Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:57:46.668Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T17:57:49.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T17:57:51.184Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:05:20.476Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:05:22.537Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:05:27.708Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:05:29.857Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:05:32.200Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:05:34.340Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:05:37.593Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:05:39.656Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:05:44.831Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:05:46.980Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:05:49.272Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:05:51.326Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:11:31.195Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:11:41.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:11:44.014Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:11:49.221Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:11:51.308Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:11:53.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:11:55.749Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:11:59.272Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:12:01.349Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:12:06.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:12:08.561Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:12:10.972Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:12:13.094Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:13:20.971Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:13:23.086Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:19:45.087Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:19:47.213Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:19:49.604Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:19:51.675Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:19:54.014Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:19:56.096Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:20:05.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:20:08.092Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:20:13.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:20:15.311Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:20:17.713Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:20:19.826Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:22:31.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:22:33.239Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:22:35.483Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:22:37.573Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:22:39.950Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:22:42.039Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:22:47.337Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:22:49.378Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:22:51.602Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:22:53.685Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-19T18:22:56.024Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-19T18:22:58.047Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:18:39.037Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:18:41.130Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:18:43.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:18:45.597Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:18:48.170Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:18:50.378Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:18:54.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:18:56.478Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:18:58.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:19:00.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:19:03.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:19:05.214Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:19:28.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:19:30.822Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:19:33.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:19:35.271Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:19:37.649Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:19:39.672Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:19:50.103Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:19:52.301Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:19:54.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:19:56.593Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:19:58.927Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:01.134Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:18.281Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:18.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:20.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:20.463Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:20.467Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:29.642Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:31.763Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:34.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:36.165Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:38.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:40.580Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:44.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:46.822Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:49.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:51.067Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:20:53.438Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:20:55.556Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:22:32.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:22:34.908Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:22:37.133Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:22:39.265Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:22:41.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:22:43.768Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:26:04.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:26:06.767Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:26:58.360Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:27:00.463Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:27:02.696Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:27:04.790Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:27:07.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:27:09.197Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:27:47.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:27:49.829Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:27:52.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:27:54.129Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:27:56.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:27:58.664Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:28:49.179Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:28:51.245Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:28:53.474Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:28:55.588Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:28:58.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:29:00.275Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:30:05.364Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:30:07.405Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:30:09.710Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:30:11.897Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:30:14.331Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:30:16.516Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:30:27.702Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:30:29.926Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:30:32.202Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:30:34.243Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:30:36.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:30:38.928Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:34:38.207Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:34:40.247Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:34:42.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:34:44.555Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:34:47.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:34:49.554Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:35:30.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:35:32.307Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:35:34.550Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:35:36.602Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:35:38.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:35:41.216Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:36:42.941Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:36:44.975Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:36:47.204Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:36:49.233Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:36:51.448Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:36:53.685Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:38:03.094Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:38:05.166Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:38:07.451Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:38:09.510Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:38:12.058Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:38:14.350Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:40:46.355Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:40:48.414Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:40:50.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:40:52.790Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:40:55.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:40:57.494Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:42:07.795Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:42:09.842Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:42:12.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:42:14.112Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:42:16.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:42:18.495Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:43:31.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:43:33.963Z"}
+{"message":"res.status(...)._construct is not a function","stack":"TypeError: res.status(...)._construct is not a function\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:16:53)\n    at <anonymous>","level":"error","timestamp":"2022-03-20T00:43:36.050Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:43:36.315Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:43:38.362Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:43:40.830Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:43:42.865Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:44:01.336Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:44:03.367Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:44:05.580Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:44:07.964Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:44:10.431Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:44:12.457Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:44:43.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:44:46.035Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:44:48.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:44:50.327Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:44:53.339Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:44:55.369Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:45:17.999Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:45:20.030Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:45:22.250Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:45:24.297Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:45:26.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:45:28.673Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:46:11.809Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:46:13.870Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:46:16.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:46:18.858Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:46:21.268Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:46:23.306Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:48:08.709Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:48:10.776Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:48:13.486Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:48:15.549Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:48:17.900Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:48:19.928Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:48:39.314Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:48:41.370Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:48:43.603Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:48:45.637Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:48:48.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:48:50.046Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:49:05.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:49:07.043Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:49:09.399Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:49:11.458Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:49:13.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:49:15.940Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:49:50.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:49:52.276Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:49:54.566Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:49:56.592Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:49:59.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:50:01.589Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:50:29.555Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:50:31.589Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:50:33.829Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:50:36.488Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:50:38.830Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:50:40.887Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:52:04.267Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:52:06.314Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:52:08.784Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:52:11.375Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:52:13.653Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:52:15.701Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:52:28.070Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:52:30.112Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:52:32.392Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:52:34.422Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:52:36.663Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:52:39.352Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:58:54.237Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:58:56.345Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:58:58.643Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:59:00.714Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:59:03.072Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:59:05.159Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:59:32.657Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:59:34.692Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:59:36.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:59:39.067Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T00:59:41.409Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T00:59:43.517Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:00:22.210Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:00:24.232Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:00:26.489Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:00:28.616Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:00:30.984Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:00:33.114Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:01:18.371Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:01:20.407Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:01:22.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:01:24.845Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:01:27.188Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:01:29.399Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:02:47.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:02:49.044Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:02:51.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:02:53.460Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:02:55.775Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:02:57.960Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:03:33.971Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:03:36.024Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:03:38.322Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:03:40.353Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:03:43.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:03:45.241Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:05:46.071Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:05:48.110Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:05:50.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:05:52.683Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:05:54.998Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:05:57.345Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:07:10.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:07:12.301Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:07:14.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:07:16.813Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:07:19.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:07:21.693Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:07:28.574Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:07:30.943Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:07:33.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:07:35.350Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:07:37.570Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:07:39.589Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:11.144Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:21.153Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:23.281Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:25.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:27.824Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:30.087Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:32.194Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:35.516Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:37.602Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:39.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:41.982Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:44.283Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:46.406Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:52.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:54.160Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:21:56.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:21:58.718Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:22:01.209Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:22:03.387Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:22:23.821Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:22:25.875Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:22:28.274Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:22:30.342Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:22:32.833Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:22:34.943Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:24:39.614Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:24:41.791Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:24:44.146Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:24:46.213Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:24:48.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:24:50.699Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:25:02.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:25:04.339Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:25:06.706Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:25:08.928Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:25:11.171Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:25:13.201Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:26:15.149Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:26:17.204Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:26:19.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:26:21.605Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:26:23.847Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:26:26.130Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:27:51.803Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:27:53.867Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:27:56.274Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:27:58.303Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:28:00.771Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:28:03.101Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:30:36.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:30:38.093Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:30:40.464Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:30:42.508Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:30:44.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:30:46.998Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:30:57.262Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:30:59.299Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.357Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.370Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.383Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.396Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.407Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.419Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.438Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.451Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:8:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:01.463Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:31:01.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:31:03.998Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:31:06.336Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:31:08.376Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:31:32.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:31:34.396Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.495Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.506Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.514Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.526Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.536Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.545Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.558Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.567Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:9:24)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\middleware\\auth.js:11:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2022-03-20T01:31:36.578Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:31:36.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:31:38.808Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:31:41.121Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:31:43.175Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:32:06.587Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:32:08.929Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:32:11.331Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:32:13.376Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:32:15.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:32:17.753Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:34:32.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:34:34.908Z"}
+{"message":"Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\"","stack":"CastError: Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\"\n    at new CastError (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\error\\cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schema\\objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schema\\objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schematype.js:1041:15)\n    at cast (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOne (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\query.js:1485:8)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\kareem\\index.js:276:8\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\kareem\\index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"\"","kind":"ObjectId","value":"","path":"_id","level":"error","timestamp":"2022-03-20T01:34:36.973Z"}
+{"message":"Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\"","stack":"CastError: Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\"\n    at new CastError (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\error\\cast.js:27:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schema\\objectid.js:158:13)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schematype.js:701:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schematype.js:1072:15)\n    at ObjectId.Object.<anonymous>.ObjectId.castForQuery (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schema\\objectid.js:198:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\schematype.js:1041:15)\n    at cast (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\cast.js:269:32)\n    at model.Query.Object.<anonymous>.Query.cast (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\query.js:3133:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\query.js:1269:10)\n    at model.Query.Object.<anonymous>.Query._findOne (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\mongoose\\lib\\query.js:1485:8)\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\kareem\\index.js:276:8\n    at D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\node_modules\\kareem\\index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"CastError","stringValue":"\"\"","kind":"ObjectId","value":"","path":"_id","level":"error","timestamp":"2022-03-20T01:34:36.986Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:34:37.282Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:34:39.332Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:34:41.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:34:43.700Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:02.174Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:04.235Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:06.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:09.033Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:11.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:13.487Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:19.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:21.451Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:23.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:25.846Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:28.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:30.611Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:39.751Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:41.811Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:44.174Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:46.228Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:48.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:35:50.529Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:35:57.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:36:00.066Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:36:02.419Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:36:04.479Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:36:06.824Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:36:08.847Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:43:36.474Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:43:38.523Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:43:41.463Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:43:43.521Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:43:45.882Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:43:47.918Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:43:55.524Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:43:57.559Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:43:59.899Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:44:01.945Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:44:04.294Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:44:06.849Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:21.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:48:23.096Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:25.877Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:48:27.902Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:30.137Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:48:32.184Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:38.775Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:48:40.821Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\models\\rental.js:68:22)\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:17:18)\n    at <anonymous>","level":"error","timestamp":"2022-03-20T01:48:42.925Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\models\\rental.js:68:22)\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:17:18)\n    at <anonymous>","level":"error","timestamp":"2022-03-20T01:48:42.935Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\models\\rental.js:68:22)\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:17:18)\n    at <anonymous>","level":"error","timestamp":"2022-03-20T01:48:42.948Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\models\\rental.js:68:22)\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:17:18)\n    at <anonymous>","level":"error","timestamp":"2022-03-20T01:48:42.958Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\models\\rental.js:68:22)\n    at Object.<anonymous>.router.post (D:\\projects\\nodejs-cwm\\14- Test-driven Development\\before - Copy\\routes\\returns.js:17:18)\n    at <anonymous>","level":"error","timestamp":"2022-03-20T01:48:42.970Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:43.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:48:45.782Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:48.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:48:50.088Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:53.939Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:48:56.589Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:48:58.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:49:01.035Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:49:03.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:49:05.332Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:50:42.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:50:44.659Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:50:46.959Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:50:49.548Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-20T01:50:51.918Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2022-03-20T01:50:54.001Z"}
